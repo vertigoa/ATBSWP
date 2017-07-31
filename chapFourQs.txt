@@ -1,0 +1,20 @@
+1. it contains the list values [] is empty list
+2. spam[2] = 'hello'
+3. D
+4. D
+5. a b
+6. 1
+7. ...True, 99]
+8. 3.14, 11
+9. + *
+10. append adds to the end of a list, insert adds to that index
+11. del statment and remove method
+12. both lists and strings can be passes to len(), have indexes and slices, be used in FOR loops, be concatenated and replicated and be used with the in and not operators
+13 mutablily [] ()
+14. (42,)
+15. just use tuple and list functions respectivly
+16. refrensese to lists
+17. deepcopy also copies the lists withing lists
+
+
+

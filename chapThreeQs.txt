@@ -1,0 +1,15 @@
+1.Black boxes organize
+2.called
+3.def
+4.a function is the machinery and a function call executes the function.
+5. one global scope - local scope is created when a function is called?
+6. they are discarded
+7. the value a function rerturns. Yes
+8. None
+9. type 'global' before the variable in the function
+10. NoneType
+11. imports a module specifically
+12. spam.bacon()
+13. use a try clause
+14. try clause = code that may cause the error
+    except clause = code to execute if an error is produced.
